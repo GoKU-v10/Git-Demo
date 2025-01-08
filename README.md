@@ -1,4 +1,4 @@
 # Git-Demo
 My First Repository
 <br>
-Author- Narayankar Samarth.
+Author-  Samarth Vijaykumar Narayankar.
